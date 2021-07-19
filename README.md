@@ -1,1 +1,2 @@
 # saluteApp
+[![CircleCI](https://circleci.com/<https://github.com/Ksennia/saluteApp.git>/<KseniiaBinkovska>/<SaluteApp>.svg?style=svg)](<https://app.circleci.com/pipelines/github/Ksennia/saluteApp/3/workflows/7def30d3-67d3-4d69-a14a-9bd29db25a8f>)
